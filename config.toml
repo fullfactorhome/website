@@ -1,7 +1,7 @@
 baseURL = "http://fullfactorhome.com/"
 languageCode = "en-us"
 title = "Full Factor Home"
-theme = "learn"
+theme = ["my-learn", "learn"]
 
 [outputs]
   # For search functionality
